@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+<!-- <h2>Technical toolkit</h2>
 
 <p align="center">
 <picture>
@@ -95,7 +95,7 @@
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
 <td width="20%" align="center"><strong>Dart</strong><br /><sub>1% of public code</sub></td>
 </tr>
-</table>
+</table> -->
 
 <h2>Consistency signal</h2>
 
